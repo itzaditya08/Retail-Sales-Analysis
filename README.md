@@ -65,6 +65,6 @@ Retail-Margin-Analytics/
 │
 ├── Data_Extraction_Queries.sql          # SQL logic for data aggregation
 ├── Dashboard_Preview.png                # Visual snapshot of the dashboard
-├── Superstore_Full_Report.pbix  # Interactive Power BI dashboard
+├── Superstore_Full_Report.pbix          # Interactive Power BI dashboard
 ├── Superstore_Insights_Report.pdf       # Detailed executive summary
 └── README.md                            # Project documentation
